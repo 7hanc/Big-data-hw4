@@ -15,8 +15,8 @@
   * The method of cross validation: **K-fold**   
 ### The answer of Q1 and Q2 -> hw4.py
 * Q3: Show the **evaluation results** of validation in training and prediction in testing  by following those evaluation metric:
-  * MAE (平均絕對誤差) = ![mae](https://i.imgur.com/fHLGayL.png)
-  * RMSE (均方根誤差) = ![rmse](https://i.imgur.com/cAdZnvD.png)
+  * MAE (平均絕對誤差) = <img src="https://i.imgur.com/fHLGayL.png" width=20% height=20% />
+  * RMSE (均方根誤差) = <img src="https://i.imgur.com/cAdZnvD.png" width=20% height=20% />
 <table>
 　<tr>
     <td> </td>
