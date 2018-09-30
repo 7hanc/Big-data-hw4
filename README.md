@@ -18,19 +18,7 @@
   * MAE (平均絕對誤差) = <img src="https://i.imgur.com/fHLGayL.png" width=20% height=20% />
   * RMSE (均方根誤差) = <img src="https://i.imgur.com/cAdZnvD.png" width=20% height=20% />
 <table>
-　<tr>
-    <td> </td>
-　  <td>average MAE (值越大, 誤差越大)</td>
-    <td>average RMSE (值越大, 誤差越大)</td>
-　</tr>
- <tr>
-    <td>validation in training</td>
-　  <td>1.612427</td>
-    <td>5.016839</td>
-　</tr>
- <tr>
-    <td>prediction in testing</td>
-　  <td>1.495521</td>
-    <td>9.243812</td>
-　</tr>
+　<tr><td> </td><td>average MAE (值越大, 誤差越大)</td><td>average RMSE (值越大, 誤差越大)</td></tr>
+ <tr><td>validation in training</td> <td>1.612427</td> <td>5.016839</td></tr>
+ <tr><td>prediction in testing</td><td>1.495521</td><td>9.243812</td></tr>
 </table>
